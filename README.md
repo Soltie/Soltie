@@ -6,10 +6,6 @@
   I build scalable systems, real-time integrations and architectures that don't break.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soltie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## About Me
@@ -73,15 +69,6 @@ Production-grade plugins, cross-platform bridges, and game adaptations for the M
   <img src="https://img.shields.io/badge/GML-8BC34A?style=for-the-badge&logo=gamemaker&logoColor=white" />
 </p>
 
-**How I build**
-- Modular plugin architecture with clear service boundaries
-- Real-time bridges between Minecraft servers and web platforms
-- Event-driven communication using Socket.io
-- Database-backed state management with Supabase/PostgreSQL
-- RESTful APIs with Express.js and TypeScript
-- Cross-platform mobile apps with Flutter
-- Production-first mentality with monitoring and telemetry
-
 ---
 
 ## GitHub Stats
@@ -98,11 +85,5 @@ Production-grade plugins, cross-platform bridges, and game adaptations for the M
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soltie&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soltie/Soltie/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soltie/Soltie/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Soltie/Soltie/output/github-contribution-
+ ---
