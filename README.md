@@ -1,5 +1,3 @@
-# <p align="center">Hi, I'm Soltie 👋</p>
-
 <p align="center">
   <strong>Systems Architect • Backend Engineer • High-Performance Design</strong>
 </p>
