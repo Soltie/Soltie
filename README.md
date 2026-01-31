@@ -23,9 +23,9 @@ Interested in:
 **Blocky Systems – Ecosystem**  
 Production-grade plugins, cross-platform bridges, and game adaptations for the Minecraft and Java Games ecosystem.
 
-- **MConnector Enterprise Engine** – Cross-platform bridge ecosystem connecting Minecraft servers with external systems
-- **BridgeAPI Enterprise Gateway** – Backend infrastructure & gateway layer for real-time server communication
-- **PaperWeb Enterprise Engine** – Server telemetry & IOC engine for monitoring and control
+- **MConnector** – Cross-platform bridge ecosystem connecting Minecraft servers with external systems
+- **BridgeAPI** – Backend infrastructure & gateway layer for real-time server communication
+- **PaperWeb** – Server telemetry & IOC engine for monitoring and control
 
 ---
 
